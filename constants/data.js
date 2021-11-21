@@ -24,11 +24,9 @@ const userData = {
   resumeUrl:
     "https://drive.google.com/file/d/1b0cLe4VroqKr0Wxq-mJbjmsNMxIHmZsa/view?usp=sharing",
   socialLinks: {
-    instagram: "https://instagram.com/maninthere",
-    twitter: "https://twitter.com/mannupaaji",
     linkedin: "https://www.linkedin.com/in/ben-landman-226b06218/",
-    github: "https://github.com/manuarora700",
-    facebook: "https://facebook.com/",
+    github: "https://github.com/benlandmanZA",
+    
   },
 };
 
