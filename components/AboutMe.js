@@ -9,19 +9,36 @@ export default function AboutMe() {
           About Me.
         </h1>
       </div>
+      <div className="hidden lg:block relative w-full md:w-1/2 -mr-40 mt-20">
+        <div className="w-1/4 absolute left-0 top-0">
+          <img src= "https://i.imgur.com/tyBSeOa.jpg" alt="avatar" className=" shadow" />
+          <div className="flex flex-row justify-between mt-4">
+            <div className="flex flex-row space-x-4">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="16"
+                height="16"
+                fill="currentColor"
+                className="bi bi-arrow-90deg-up"
+                viewBox="0 0 16 16"
+              >
+                <path
+                  fillRule="evenodd"
+                  d="M4.854 1.146a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L4 2.707V12.5A2.5 2.5 0 0 0 6.5 15h8a.5.5 0 0 0 0-1h-8A1.5 1.5 0 0 1 5 12.5V2.707l3.146 3.147a.5.5 0 1 0 .708-.708l-4-4z"
+                />
+              </svg>
+              <p className="font-mono">That's me</p>
+            </div>
+          </div>
+        </div>
+      </div>
       <div className="bg-[#F1F1F1] -mt-10 dark:bg-gray-900">
         <div className="text-container max-w-6xl mx-auto pt-20">
           <p
             className="leading-loose text-2xl md:text-4xl font-semibold  mx-4"
             style={{ lineHeight: "3rem" }}
           >
-            {userData.about.title}. Currently working on{" "}
-            <a
-              className="bg-red-500 rounded-md px-2 py-1 text-white"
-              href={userData.about.currentProjectUrl}
-            >
-              {userData.about.currentProject} ✈️
-            </a>
+            {userData.about.title}
           </p>
         </div>
       </div>
@@ -104,7 +121,7 @@ export default function AboutMe() {
             ))}
 
             <h1 className="bg-red-500 text-3xl rounded-md px-2 py-1 inline-block font-bold text-gray-50">
-              Tech Stack
+              Tools & Technology
             </h1>
             <div className="flex flex-row flex-wrap mt-8">
               <img

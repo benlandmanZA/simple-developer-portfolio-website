@@ -13,7 +13,7 @@ export default function Footer() {
           <div>
             {/* Support me by keeping this in the footer, please. :) */}
             <p>
-              Developed by Ben Landman
+              benlandmanwork@gmail.com
             </p>
           </div>
           <div className="space-x-4 flex flex-row items-center">
