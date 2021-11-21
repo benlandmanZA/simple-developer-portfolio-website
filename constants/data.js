@@ -8,11 +8,17 @@ const userData = {
   address: "4 Frere Avenue, Cape Town",
   about: {
     title:
-      "I'm a software developer that loves building products and web applications that impact millions of lives",
+      "I am young, eager to learn and ready to grow in both my professional career and as a person. I love working together, using technology as a tool to solve real world problems.",
     description: [
-      `I've been developing full-stack application since I was 10 years old. I didn't know what full-stack meant at that time because the term was not coined back then. I'm so out of content right now that I'm literally crying writing this text since lorem text is so 2012 now.`,
-      `After learning HTML and struggling with CSS, I came up with a brilliant idea of using bootstrap so that I don't have to style everything by myself and - for obvious reasons - if you knew bootstrap, you were cool.`,
-      `But now, I'm a legend. I've been coding in React, Angular, Vue, Svelte, Node.js, Express, Fastify, MongoDB, MySQL, Bootstrap, Tailwind, C, C++, C#, Rust, Haskell, Perl, PHP, Assembly, Logo and YouDontKnowShit programming language etc to name a few. Although I barely know the syntax (Psst, Stack overflow!), I consider myself a Ninja developer I'm laughing right now.`,
+      `I am a young, driven, and enthusiastic graduate who firmly believes that my stay at Sovtech will have a positive impact for the company. I graduated from The University of Cape Town with a Bachelor of Commerce in Information Systems and Computer Science which has prepared me in ways I feel would bring continuous success to the company.`,
+      `Over the years, I have learnt to use my leadership qualities, critical thinking, and adaptability to overcome many problems as well as accomplish my goals and dreams. I hope to be able to use these same skills and knowledge during my time at your company. My ability to learn and digest new information and apply it to 
+      solutions is why I think I would thrive in this position. I also thrive in a team environment because I excel at:`,
+      `-	Bridging the gap between differently minded individuals.`,
+      `-	Recognising the strengths of fellow team members to help in solving our problems.`,
+      `-	Reflecting on criticism and mentoring.`,
+      `I would fit this graduate programme as I am open minded and malleable, ready to learn from a mentor and excel at your company.
+      I love to work in a team environment much like how your company portrays, using my assertiveness and charisma to align the personal and shared goals of everyone involved. 
+      Seeing the expertise Sovtech provides, I feel the experience I could gain here would be unparalleled.`,
     ],
   },
   resumeUrl:
