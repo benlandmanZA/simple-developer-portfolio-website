@@ -19,7 +19,6 @@ Deployed on [Vercel](https://vercel.com) Link to deployed site: https://simple-d
 
 - [Next.js](https://nextjs.org) for building React Components.
 - [tailwindcss](https://tailwindcss.com) for styling.
-- [React Rough Notation](https://roughnotation.com) for Hero section highlighting.
 - [Vercel](https://vercel.com) for deployments and CI/CD.
 
 # Usage
